@@ -1,0 +1,97 @@
+
+MAGNETIC CHARACTERISTICS AND CORNER PLAN  @ 2017-09-08 15:20:34
+
+Site Name = Blog
+Plot size = 100 (m)
+
+Starting Corner:
+   Latitude  = -15
+   Longitude = 128
+Elevation = 0.013 km
+
+Change plot angle manually by 0
+Selected starting corner = SE
+Calculated MGA zone is 52
+projection is WGS84 (for handheld GPS devices)
+
+starting corner in meters = Eastings 392487.772324    Northings 8341431.159
+
+Date is 2017/09/08
+Decimal Date 2017.77197802
+
+
+Output files are in  Output_Data_Sheets/Blog_all_data.txt
+
+-----------------------------------------------------------------------
+
+                    Output from program AGRF15S
+
+
+
+Blog                                                                            
+
+AGRF15          YEAR = 2017.77
+
+  Latitude  = -15.0000 deg  0.000 min  0.00 sec   (= -15.0000 deg)
+
+  Longitude = 128.0000 deg  0.000 min  0.00 sec   (= 128.0000 deg)
+
+  Elevation =    0.013 km
+
+
+
+ On-cap    X(nT)    Y(nT)    Z(nT)    H(nT)    F(nT)    D(deg)   I(deg)
+
+ Field =  34634.9   1518.5 -33066.8  34668.2  47909.2    2.510  -43.646
+
+ SV/yr =     10.2    -49.7     37.0      8.0    -19.7   -0.083    0.039
+
+-----------------------------------------------------------------------
+
+
+Declination = 2.510
+Change plot angle manually by 0
+Total Magnetic Field Strength = 47909.2
+
+centre of the plot is  392440.009982 8341483.30072
+
+
+CORNER LOCATION TABLEDate 	2017/09/08 	zone 52
+
+site		corner 		X 		Y	LongWGS84	LatWGS84
+Blog 	SW 	392487.772324 	8341431.159 	127.999071051 	-14.9999563292
+Blog 	NW 	392387.868264 	8341435.53838 	127.999115982 	-14.9990533914
+Blog 	NE 	392392.24764 	8341535.44244 	128.000044927 	-14.9990970617
+Blog 	SE 	392492.151699 	8341531.06306 	128.0 	-15.0
+Blog 	Centre 	392440.009982 	8341483.30072 	127.99955799 	-14.9995266961
+
+
+GPX DATA FOR HANDHELD GPS DEVICE is saved as a gpx file at:
+\\nas\eg\water\Personal_workspaces\Joseph Bell\PythonScriptsAchive\Magnetic\agrf2015\GPX/Blog.gpx
+
+Shapefile located:
+\\nas\eg\water\Personal_workspaces\Joseph Bell\PythonScriptsAchive\Magnetic\agrf2015\shapefiles/Blog.shp
+
+
+CORNER csv file is saved at:
+\\nas\eg\water\Personal_workspaces\Joseph Bell\PythonScriptsAchive\Magnetic\agrf2015/Plots_Data/Blogzone52.csv
+
+This data summarry file is saved at:
+\\nas\eg\water\Personal_workspaces\Joseph Bell\PythonScriptsAchive\Magnetic\agrf2015/Output_Data_Sheets/Blog_all_data.txt
+
+
+
+Computer Name
+PC-64760
+
+
+NOTES
+
+Magnetic Field elements
+ --------------
+ The vector field is expressed in terms of 7 elements:
+ 
+   X,Y,Z = northwards, eastwards, vertical(downwards) components
+   H,F   = horizontal component, total field intensity
+   D     = declination (magnetic variation), positive east of north
+   I     =  inclination, positive downwards.
